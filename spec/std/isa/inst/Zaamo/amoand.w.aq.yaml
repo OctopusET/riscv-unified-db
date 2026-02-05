@@ -10,7 +10,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: amoand.w.aq
-long_name: Atomic fetch-and-and word (acquire)
+long_name: "Atomic fetch-and-and word (acquire)"
 description: |
   Atomically with acquire ordering:
 

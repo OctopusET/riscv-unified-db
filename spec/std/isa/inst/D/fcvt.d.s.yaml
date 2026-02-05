@@ -6,7 +6,7 @@
 $schema: inst_schema.json#
 kind: instruction
 name: fcvt.d.s
-long_name: Floating-Point Convert Single-Precision to Double-Precision
+long_name: "Floating-Point Convert Single-Precision to Double-Precision"
 definedBy:
   extension:
     oneOf:

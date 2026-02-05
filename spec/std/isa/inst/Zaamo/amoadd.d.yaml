@@ -10,7 +10,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: amoadd.d
-long_name: Atomic fetch-and-add doubleword
+long_name: "Atomic fetch-and-add doubleword"
 description: |
   Atomically:
 

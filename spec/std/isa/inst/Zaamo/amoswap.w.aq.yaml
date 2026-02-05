@@ -10,7 +10,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: amoswap.w.aq
-long_name: Atomic SWAP word (acquire)
+long_name: "Atomic SWAP word (acquire)"
 description: |
   Atomically with acquire ordering:
 

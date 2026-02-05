@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: mulh
-long_name: Signed multiply high
+long_name: "Signed multiply high"
 description: |
   Multiply the signed values in xs1 to xs2, and store the upper half of the result in xd.
   The lower half is thrown away.

@@ -6,7 +6,7 @@
 $schema: inst_schema.json#
 kind: instruction
 name: ssrdp
-long_name: Read ssp into a Register
+long_name: "Read ssp into a Register"
 description: |
   No description available.
 definedBy:

@@ -10,7 +10,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: amomax.d
-long_name: Atomic MAX doubleword
+long_name: "Atomic MAX doubleword"
 description: |
   Atomically:
 

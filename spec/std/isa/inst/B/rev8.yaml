@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: rev8
-long_name: Byte-reverse register (RV64 encoding)
+long_name: "Byte-reverse register (RV64 encoding)"
 description: |
   Reverses the order of the bytes in rs1.
 

@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: jal
-long_name: Jump and link
+long_name: "Jump and link"
 description: |
   Jump to a PC-relative offset and store the return
   address in xd.

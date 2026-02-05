@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: ror
-long_name: Rotate right (Register)
+long_name: "Rotate right (Register)"
 description: |
   Performs a rotate right of xs1 by the amount in least-significant `log2(XLEN)` bits of xs2.
 definedBy:

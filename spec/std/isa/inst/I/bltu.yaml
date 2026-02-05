@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: bltu
-long_name: Branch if less than unsigned
+long_name: "Branch if less than unsigned"
 description: |
   Branch to PC + imm if
   the unsigned value in register xs1 is less than the unsigned value in register xs2.

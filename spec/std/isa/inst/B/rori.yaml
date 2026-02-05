@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: rori
-long_name: Rotate right (Immediate)
+long_name: "Rotate right (Immediate)"
 description: |
   Performs a rotate right of xs1 by the amount in the least-significant log2(XLEN) bits of shamt.
   For RV32, the encodings corresponding to shamt[5]=1 are reserved.

@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: vaesdm.vv
-long_name: Vector AES decryption mix columns
+long_name: "Vector AES decryption mix columns"
 description: |
   Performs AES decryption mix columns operation on vector register vs2 using vector register vs1, storing results in vector register vd according to mask vm. This is the inverse mix columns operation used in AES decryption.
 definedBy:

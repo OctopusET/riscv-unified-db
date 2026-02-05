@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: cm.mvsa01
-long_name: Move a0-a1 into two registers of s0-s7
+long_name: "Move a0-a1 into two registers of s0-s7"
 description: |
   Moves a0 into r1s' and a1 into r2s'. r1s' and r2s' must be different.
   The execution is atomic, so it is not possible to observe state where only one of r1s' or r2s' has been updated.

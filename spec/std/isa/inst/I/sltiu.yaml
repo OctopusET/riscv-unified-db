@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: sltiu
-long_name: Set on less than immediate unsigned
+long_name: "Set on less than immediate unsigned"
 description: |
   Places the value 1 in register `xd` if register `xs1` is less than the sign-extended immediate
   when both are treated as unsigned numbers (_i.e._, the immediate is first sign-extended to

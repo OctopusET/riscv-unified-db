@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: addiw
-long_name: Add immediate word
+long_name: "Add immediate word"
 description:
   Add an immediate to the 32-bit value in xs1, and store the sign extended
   result in xd

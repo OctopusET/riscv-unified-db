@@ -6,7 +6,7 @@
 $schema: inst_schema.json#
 kind: instruction
 name: fcvt.l.h
-long_name: Floating-point Convert Half-precision to Long
+long_name: "Floating-point Convert Half-precision to Long"
 definedBy:
   allOf:
     - xlen: 64

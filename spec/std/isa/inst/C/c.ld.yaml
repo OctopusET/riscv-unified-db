@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: c.ld
-long_name: Load double
+long_name: "Load double"
 description: |
   Loads a 64-bit value from memory into register xd.
   It computes an effective address by adding the zero-extended offset, scaled by 8,

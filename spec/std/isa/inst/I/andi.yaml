@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: andi
-long_name: And immediate
+long_name: "And immediate"
 description: And an immediate to the value in xs1, and store the result in xd
 definedBy:
   extension:

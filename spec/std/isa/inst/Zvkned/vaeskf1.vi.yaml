@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: vaeskf1.vi
-long_name: Vector AES key schedule first round
+long_name: "Vector AES key schedule first round"
 description: |
   Performs the first round of AES key schedule computation on vector register vs2 using immediate value as round constant, storing results in vector register vd according to mask vm. This instruction is used in AES key expansion.
 definedBy:

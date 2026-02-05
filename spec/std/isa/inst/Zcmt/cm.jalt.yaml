@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: cm.jalt
-long_name: Jump Via Table with Optional Link
+long_name: "Jump Via Table with Optional Link"
 description: |
   Read an address from the Jump Vector Table and jump to it, linking to `ra`.
 definedBy:

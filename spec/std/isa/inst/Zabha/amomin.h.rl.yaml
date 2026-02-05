@@ -10,7 +10,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: amomin.h.rl
-long_name: Atomic MIN halfword (release)
+long_name: "Atomic MIN halfword (release)"
 description: |
   Atomically with release ordering:
 

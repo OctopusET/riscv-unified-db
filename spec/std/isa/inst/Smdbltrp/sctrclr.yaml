@@ -6,7 +6,7 @@
 $schema: inst_schema.json#
 kind: instruction
 name: sctrclr
-long_name: Supervisor Control Transfer Record (CTR) clear
+long_name: "Supervisor Control Transfer Record (CTR) clear"
 description: |
   When `mstateen0.CTR`=1, the SCTRCLR instruction performs the following operations:
 

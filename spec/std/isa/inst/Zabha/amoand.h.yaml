@@ -10,7 +10,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: amoand.h
-long_name: Atomic fetch-and-and halfword
+long_name: "Atomic fetch-and-and halfword"
 description: |
   Atomically:
 

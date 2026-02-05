@@ -10,7 +10,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: amoxor.w
-long_name: Atomic fetch-and-xor word
+long_name: "Atomic fetch-and-xor word"
 description: |
   Atomically:
 

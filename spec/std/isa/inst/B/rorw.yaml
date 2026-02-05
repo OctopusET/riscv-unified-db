@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: rorw
-long_name: Rotate right word (Register)
+long_name: "Rotate right word (Register)"
 description: |
   Performs a rotate right on the least-significant word of xs1 by the amount in
   least-significant 5 bits of xs2. The resultant word is sign-extended by copying bit 31 to all

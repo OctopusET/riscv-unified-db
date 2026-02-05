@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: c.li
-long_name: Load the sign-extended 6-bit immediate
+long_name: "Load the sign-extended 6-bit immediate"
 description: |
   C.LI loads the sign-extended 6-bit immediate, imm, into register xd.
   C.LI expands into `addi xd, x0, imm`.

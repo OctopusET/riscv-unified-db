@@ -4,7 +4,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: mret
-long_name: Machine-mode Return from Trap
+long_name: "Machine-mode Return from Trap"
 description: |
   Return from machine mode after handling a trap.
 assembly: ""

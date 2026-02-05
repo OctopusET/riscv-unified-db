@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: fsq
-long_name: Floating-Point Store Quad-Precision
+long_name: "Floating-Point Store Quad-Precision"
 description: |
   The `fsq` is the new variant of LOAD-FP, encoded with a new value for the `funct3`.
 

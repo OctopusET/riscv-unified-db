@@ -6,7 +6,7 @@
 $schema: inst_schema.json#
 kind: instruction
 name: hsv.h
-long_name: Hypervisor store halfword
+long_name: "Hypervisor store halfword"
 description: |
   Store 16 bits of data from register `xs2` to guest physical memory at the
   address in `xs1`, as though V=1.

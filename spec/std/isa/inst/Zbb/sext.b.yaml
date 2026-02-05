@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: sext.b
-long_name: Sign-extend byte
+long_name: "Sign-extend byte"
 description: |
   Sign-extends the least-significant byte in the source to XLEN by copying the
   most-significant bit in the byte (i.e., bit 7) to all of the more-significant bits.

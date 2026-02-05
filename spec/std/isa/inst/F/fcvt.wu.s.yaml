@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: fcvt.wu.s
-long_name: Floating-Point Convert Single-Precision to Unsigned Word
+long_name: "Floating-Point Convert Single-Precision to Unsigned Word"
 description: |
   Converts a floating-point number in floating-point register `fs1` to an unsigned 32-bit integer
   in integer register `xd`. For XLEN &gt;32, `fcvt.wu.s` sign-extends the 32-bit result to the

@@ -10,7 +10,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: amoor.h.rl
-long_name: Atomic fetch-and-or halfword (release)
+long_name: "Atomic fetch-and-or halfword (release)"
 description: |
   Atomically with release ordering:
 

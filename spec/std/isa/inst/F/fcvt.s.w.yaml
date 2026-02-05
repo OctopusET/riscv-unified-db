@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: fcvt.s.w
-long_name: Floating-Point Convert Word to Single-Precision
+long_name: "Floating-Point Convert Word to Single-Precision"
 description: |
   The `fcvt.s.w` instruction converts a 32-bit signed integer in integer register `xs1` into
   a floating-point number in floating-point register `fd`.

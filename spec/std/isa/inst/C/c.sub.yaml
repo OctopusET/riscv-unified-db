@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: c.sub
-long_name: Subtract
+long_name: "Subtract"
 description: |
   Subtract the value in xs2 from xd, and store the result in xd.
   The xd and xs2 register indexes should be used as xd+8 and xs2+8 (registers x8-x15).

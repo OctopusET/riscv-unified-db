@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: cbo.flush
-long_name: Cache Block Flush
+long_name: "Cache Block Flush"
 description: |
   Flushes an entire cache block by cleaning it and then invalidating it in all caches.
 

@@ -10,7 +10,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: amoswap.d.aqrl
-long_name: Atomic SWAP doubleword (acquire-release)
+long_name: "Atomic SWAP doubleword (acquire-release)"
 description: |
   Atomically with acquire and release ordering:
 

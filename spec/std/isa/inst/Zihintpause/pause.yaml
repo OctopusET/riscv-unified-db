@@ -6,7 +6,7 @@
 $schema: inst_schema.json#
 kind: instruction
 name: pause
-long_name: Pause hint
+long_name: "Pause hint"
 description: |
   The PAUSE instruction is a HINT that indicates the current hart's rate of
   instruction retirement should be temporarily reduced or paused. The duration

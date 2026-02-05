@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: fcvt.l.s
-long_name: Floating-Point Convert Single-Precision to Long
+long_name: "Floating-Point Convert Single-Precision to Long"
 description: |
   The `fcvt.l.s` instruction converts a floating-point number in floating-point register `fs1` to a signed
   64-bit integer, in integer register `xd`.

@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: flh
-long_name: Half-precision floating-point load
+long_name: "Half-precision floating-point load"
 description: |
   The `flh` instruction loads a single-precision floating-point value from memory at address _xs1_ + _imm_ into floating-point register _xd_.
 

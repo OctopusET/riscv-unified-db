@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: bne
-long_name: Branch if not equal
+long_name: "Branch if not equal"
 description: |
   Branch to PC + imm if
   the value in register xs1 is not equal to the value in register xs2.

@@ -6,7 +6,7 @@
 $schema: inst_schema.json#
 kind: instruction
 name: fmadd.d
-long_name: Floating-Point Multiply-Add Double-Precision
+long_name: "Floating-Point Multiply-Add Double-Precision"
 definedBy:
   extension:
     oneOf:

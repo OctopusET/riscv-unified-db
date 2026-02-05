@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: c.swsp
-long_name: Store word to stack
+long_name: "Store word to stack"
 description: |
   Stores a 32-bit value in register xs2 to memory.
   It computes an effective address by adding the zero-extended offset, scaled by 4,

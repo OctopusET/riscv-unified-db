@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: cm.jt
-long_name: Jump Via Table
+long_name: "Jump Via Table"
 description: |
   Read an address from the Jump Vector Table and jump to it.
 definedBy:

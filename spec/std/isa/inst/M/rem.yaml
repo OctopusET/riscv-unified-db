@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: rem
-long_name: Signed remainder
+long_name: "Signed remainder"
 description: |
   Calculate the remainder of signed division of xs1 by xs2, and store the result in xd.
 

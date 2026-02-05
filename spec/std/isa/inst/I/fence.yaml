@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: fence
-long_name: Memory ordering fence
+long_name: "Memory ordering fence"
 description: |
   Orders memory operations.
 

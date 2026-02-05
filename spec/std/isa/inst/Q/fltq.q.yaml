@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: fltq.q
-long_name: Floating-Point Less Than Quiet Quad-Precision
+long_name: "Floating-Point Less Than Quiet Quad-Precision"
 description: |
   The `fltq.q` performs the specified comparison between floating-point registers `fs1` and `fs2`,
   and writes 1 to integer register `xd` if the condition holds, and 0 otherwise.

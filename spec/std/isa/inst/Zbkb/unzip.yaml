@@ -6,7 +6,7 @@
 $schema: inst_schema.json#
 kind: instruction
 name: unzip
-long_name: Bit deinterleave
+long_name: "Bit deinterleave"
 description: |
   Gathers bits from the high and low halves of the source word into odd/even bit
   positions in the destination word. It is the inverse of the zip instruction. This instruction is

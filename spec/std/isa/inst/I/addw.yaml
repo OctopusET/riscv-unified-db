@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: addw
-long_name: Add word
+long_name: "Add word"
 description: |
   Add the 32-bit values in xs1 to xs2, and store the sign-extended result in xd.
   Any overflow is thrown away.

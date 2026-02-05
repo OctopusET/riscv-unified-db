@@ -10,7 +10,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: amoor.w
-long_name: Atomic fetch-and-or word
+long_name: "Atomic fetch-and-or word"
 description: |
   Atomically:
 

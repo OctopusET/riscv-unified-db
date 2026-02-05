@@ -10,7 +10,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: amomax.d.aqrl
-long_name: Atomic MAX doubleword (acquire-release)
+long_name: "Atomic MAX doubleword (acquire-release)"
 description: |
   Atomically with acquire and release ordering:
 

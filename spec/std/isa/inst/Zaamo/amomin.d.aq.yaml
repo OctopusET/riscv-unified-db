@@ -10,7 +10,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: amomin.d.aq
-long_name: Atomic MIN doubleword (acquire)
+long_name: "Atomic MIN doubleword (acquire)"
 description: |
   Atomically with acquire ordering:
 

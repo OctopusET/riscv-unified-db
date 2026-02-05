@@ -6,7 +6,7 @@
 $schema: inst_schema.json#
 kind: instruction
 name: fcvtmod.w.d
-long_name: Floating-Point Convert Double-Precision to Word with Modulo
+long_name: "Floating-Point Convert Double-Precision to Word with Modulo"
 description: |
   The `fcvtmod.w.d` instruction always rounds towards zero. Bits 31:0 are taken from the rounded, unbounded
   two's complement result, then sign-extended to XLEN bits and written to integer register `xd`. ±∞ and

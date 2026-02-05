@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: wrs.sto
-long_name: Wait-on-Reservation-Set-with-Short-Timeout
+long_name: "Wait-on-Reservation-Set-with-Short-Timeout"
 description: |
   Instead of polling for a store to a specific memory location, software registers a
   reservation set that includes all the bytes of the memory location using the LR instruction.

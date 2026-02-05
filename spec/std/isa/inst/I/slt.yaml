@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: slt
-long_name: Set on less than
+long_name: "Set on less than"
 description: |
   Places the value 1 in register `xd` if register `xs1` is less than the value in register `xs2`, where
   both sources are treated as signed numbers, else 0 is written to `xd`.

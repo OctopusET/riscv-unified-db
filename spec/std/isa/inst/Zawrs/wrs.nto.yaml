@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: wrs.nto
-long_name: Wait-on-Reservation-Set-with-No-Timeout
+long_name: "Wait-on-Reservation-Set-with-No-Timeout"
 description: |
   To mitigate the wasteful looping in such usages, a `wrs.nto` (WRS-with-no-timeout) instruction is provided.
   Instead of polling for a store to a specific memory location, software registers a reservation set that

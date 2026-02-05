@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: fcvt.lu.s
-long_name: Floating-Point Convert Single-Precision to Unsigned Long
+long_name: "Floating-Point Convert Single-Precision to Unsigned Long"
 description: |
   The `fcvt.lu.s` instruction converts a floating-point number in floating-point register `fs1` to a unsigned
   64-bit integer, in integer register `xd`.

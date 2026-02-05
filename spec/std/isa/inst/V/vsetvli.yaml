@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: vsetvli
-long_name: Set vector length immediate
+long_name: "Set vector length immediate"
 description: |
   Sets the vector length register vl and vector type register vtype based on immediate values. Configures SEW, LMUL, and other vector parameters for subsequent vector operations.
 definedBy:

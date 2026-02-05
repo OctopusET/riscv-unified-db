@@ -10,7 +10,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: amomax.b.aq
-long_name: Atomic MAX byte (acquire)
+long_name: "Atomic MAX byte (acquire)"
 description: |
   Atomically with acquire ordering:
 

@@ -6,7 +6,7 @@
 $schema: inst_schema.json#
 kind: instruction
 name: c.ntl.s1
-long_name: Compressed non-temporal locality hint, innermost shared
+long_name: "Compressed non-temporal locality hint, innermost shared"
 description: |
   The C.NTL.S1 instruction indicates that the immediately subsequent instruction
   does not exhibit temporal locality within the capacity of the innermost level

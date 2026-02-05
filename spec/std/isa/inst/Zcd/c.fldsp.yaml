@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: c.fldsp
-long_name: Load doubleword into floating-point register from stack
+long_name: "Load doubleword into floating-point register from stack"
 description: |
   Loads a double-precision floating-point value from memory into floating-point register fd.
   It computes its effective address by adding the zero-extended offset, scaled by 8,

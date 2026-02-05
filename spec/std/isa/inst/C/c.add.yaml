@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: c.add
-long_name: Add
+long_name: "Add"
 description: |
   Add the value in xs2 to xd, and store the result in xd.
   C.ADD expands into `add xd, xd, xs2`.

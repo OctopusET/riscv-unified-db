@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: c.ldsp
-long_name: Load doubleword from stack pointer
+long_name: "Load doubleword from stack pointer"
 description: |
   C.LDSP is an RV64C/RV128C-only instruction that loads a 64-bit value from memory
   into register xd.

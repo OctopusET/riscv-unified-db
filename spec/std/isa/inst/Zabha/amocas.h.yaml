@@ -10,7 +10,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: amocas.h
-long_name: Atomic compare-and-swap halfword
+long_name: "Atomic compare-and-swap halfword"
 description: |
   Atomically:
 

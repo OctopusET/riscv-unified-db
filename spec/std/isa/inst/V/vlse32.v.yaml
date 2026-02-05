@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: vlse32.v
-long_name: Vector load 32-bit elements with stride
+long_name: "Vector load 32-bit elements with stride"
 description: |
   Loads 32-bit elements from memory starting at address in xs1 register with stride in xs2, using vector mask vm, and stores results in vector register vd. The effective element width is 32 bits.
 definedBy:

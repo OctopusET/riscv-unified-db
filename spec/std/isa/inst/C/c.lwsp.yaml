@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: c.lwsp
-long_name: Load word from stack pointer
+long_name: "Load word from stack pointer"
 description: |
   Loads a 32-bit value from memory into register xd.
   It computes an effective address by adding the zero-extended offset, scaled by 4,

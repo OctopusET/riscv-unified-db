@@ -10,7 +10,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: amomax.w.aq
-long_name: Atomic MAX word (acquire)
+long_name: "Atomic MAX word (acquire)"
 description: |
   Atomically with acquire ordering:
 

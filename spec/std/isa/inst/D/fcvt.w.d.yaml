@@ -6,7 +6,7 @@
 $schema: inst_schema.json#
 kind: instruction
 name: fcvt.w.d
-long_name: Floating-Point Convert Double-Precision to Word
+long_name: "Floating-Point Convert Double-Precision to Word"
 definedBy:
   extension:
     oneOf:

@@ -10,7 +10,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: amoadd.w.aqrl
-long_name: Atomic fetch-and-add word (acquire-release)
+long_name: "Atomic fetch-and-add word (acquire-release)"
 description: |
   Atomically with acquire and release ordering:
 

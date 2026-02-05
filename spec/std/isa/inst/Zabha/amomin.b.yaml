@@ -10,7 +10,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: amomin.b
-long_name: Atomic MIN byte
+long_name: "Atomic MIN byte"
 description: |
   Atomically:
 

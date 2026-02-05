@@ -6,7 +6,7 @@
 $schema: inst_schema.json#
 kind: instruction
 name: feq.d
-long_name: Floating-Point Equal Double-Precision
+long_name: "Floating-Point Equal Double-Precision"
 definedBy:
   extension:
     oneOf:

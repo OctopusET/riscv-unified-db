@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: cm.push
-long_name: Create function call stack frame
+long_name: "Create function call stack frame"
 description: |
   Creates a stack frame: store `ra` and 0 to 12 saved registers to the stack frame, optionally allocate additional stack space.
   This instruction pushes (stores) the registers in `reg_list` to the memory below the stack pointer,

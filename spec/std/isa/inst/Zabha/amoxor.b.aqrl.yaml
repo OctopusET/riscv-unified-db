@@ -10,7 +10,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: amoxor.b.aqrl
-long_name: Atomic fetch-and-xor byte (acquire-release)
+long_name: "Atomic fetch-and-xor byte (acquire-release)"
 description: |
   Atomically with acquire and release ordering:
 

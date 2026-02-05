@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: c.mv
-long_name: Move Register
+long_name: "Move Register"
 description: |
   C.MV (move register) performs copy of the data in register xs2 to register xd
   C.MV expands to addi xd, x0, xs2.

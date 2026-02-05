@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: fdiv.q
-long_name: Floating-Point Divide Quad-Precision
+long_name: "Floating-Point Divide Quad-Precision"
 description: |
   The `fdiv.q` performs the quad-precision floating-point division of `fs1` by `fs2` and writes
   the result to floating-point register `fd`.`

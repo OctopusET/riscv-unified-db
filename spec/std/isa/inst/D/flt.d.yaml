@@ -6,7 +6,7 @@
 $schema: inst_schema.json#
 kind: instruction
 name: flt.d
-long_name: Floating-Point Less Than Double-Precision
+long_name: "Floating-Point Less Than Double-Precision"
 definedBy:
   extension:
     oneOf:

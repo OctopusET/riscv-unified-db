@@ -10,7 +10,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: amomax.h.aq
-long_name: Atomic MAX halfword (acquire)
+long_name: "Atomic MAX halfword (acquire)"
 description: |
   Atomically with acquire ordering:
 

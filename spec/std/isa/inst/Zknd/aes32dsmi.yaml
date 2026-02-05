@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: aes32dsmi
-long_name: AES middle round decryption instruction for RV32
+long_name: "AES middle round decryption instruction for RV32"
 description: |
   Sources a single byte from `xs2` according to `bs`. To this it applies the inverse AES
   SBox operation, and a partial inverse MixColumn, before XOR'ing the result with `xs1`. This

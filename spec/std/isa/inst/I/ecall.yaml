@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: ecall
-long_name: Environment call
+long_name: "Environment call"
 description: |
   Makes a request to the supporting execution environment.
   When executed in U-mode, S-mode, or M-mode, it generates an environment-call-from-U-mode

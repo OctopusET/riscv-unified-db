@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: fsh
-long_name: Half-precision floating-point store
+long_name: "Half-precision floating-point store"
 description: |
   The `fsh` instruction stores a half-precision floating-point value
   from register _xd_ to memory at address _xs1_ + _imm_.

@@ -10,7 +10,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: amomaxu.w.rl
-long_name: Atomic MAX unsigned word (release)
+long_name: "Atomic MAX unsigned word (release)"
 description: |
   Atomically with release ordering:
 

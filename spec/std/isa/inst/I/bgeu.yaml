@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: bgeu
-long_name: Branch if greater than or equal unsigned
+long_name: "Branch if greater than or equal unsigned"
 description: |
   Branch to PC + imm if
   the unsigned value in register xs1 is greater than or equal to the unsigned value in register xs2.

@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: vsha2cl.vv
-long_name: Vector SHA-2 compression loop
+long_name: "Vector SHA-2 compression loop"
 description: |
   Performs the SHA-2 compression loop operation on vector register vs2 using vector register vs1, storing results in vector register vd according to mask vm. This combines multiple SHA-2 operations for efficient hash computation.
 definedBy:

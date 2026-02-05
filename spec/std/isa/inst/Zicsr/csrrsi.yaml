@@ -6,7 +6,7 @@
 $schema: inst_schema.json#
 kind: instruction
 name: csrrsi
-long_name: Atomic Read and Set Bits in CSR with Immediate
+long_name: "Atomic Read and Set Bits in CSR with Immediate"
 description: |
   The CSRRSI variant is similar to CSRRS, except this updates the CSR using an XLEN-bit value obtained
   by zero-extending a 5-bit unsigned immediate (imm[4:0]) field encoded in the `xs1` field instead of a

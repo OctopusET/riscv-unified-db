@@ -10,7 +10,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: amominu.w.rl
-long_name: Atomic MIN unsigned word (release)
+long_name: "Atomic MIN unsigned word (release)"
 description: |
   Atomically with release ordering:
 

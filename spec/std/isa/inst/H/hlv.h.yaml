@@ -6,7 +6,7 @@
 $schema: inst_schema.json#
 kind: instruction
 name: hlv.h
-long_name: Hypervisor load halfword
+long_name: "Hypervisor load halfword"
 description: |
   Load 16 bits of data into register `xd` from guest physical memory at the
   address in `xs1`, as though V=1. Sign-extend the result to XLEN bits.

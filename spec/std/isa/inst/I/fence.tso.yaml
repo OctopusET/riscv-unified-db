@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: fence.tso
-long_name: Memory ordering fence, total store ordering
+long_name: "Memory ordering fence, total store ordering"
 description: |
   Orders memory operations.
 

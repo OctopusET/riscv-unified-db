@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: fmvp.q.x
-long_name: Floating-Point Move Pair from Integer Registers to Quad-Precision Register
+long_name: "Floating-Point Move Pair from Integer Registers to Quad-Precision Register"
 description: |
   The `fmvp.q.x` instruction moves a double-precision number from a pair of integer registers into
   a floating-point register.

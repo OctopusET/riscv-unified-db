@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: fcvt.h.q
-long_name: Floating-point Convert Quad-precision to Half-precision
+long_name: "Floating-point Convert Quad-precision to Half-precision"
 description: |
   `fcvt.h.q` converts a Quad-precision Floating-point number to a Half-precision Floating-point number.
 definedBy:

@@ -10,7 +10,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: amoadd.b.aq
-long_name: Atomic fetch-and-add byte (acquire)
+long_name: "Atomic fetch-and-add byte (acquire)"
 description: |
   Atomically with acquire ordering:
 

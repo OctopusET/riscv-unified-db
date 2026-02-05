@@ -10,7 +10,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: amocas.q.aq
-long_name: Atomic compare-and-swap quadword (acquire)
+long_name: "Atomic compare-and-swap quadword (acquire)"
 description: |
   Atomically with acquire ordering:
 

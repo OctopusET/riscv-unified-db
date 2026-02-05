@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: lui
-long_name: Load upper immediate
+long_name: "Load upper immediate"
 description: Load the zero-extended imm into xd.
 definedBy:
   extension:

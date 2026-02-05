@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: lb
-long_name: Load byte
+long_name: "Load byte"
 description: |
   Load 8 bits of data into register `xd` from an
   address formed by adding `xs1` to a signed offset.

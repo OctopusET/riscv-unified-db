@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: csrrwi
-long_name: Atomic Read/Write CSR Immediate
+long_name: "Atomic Read/Write CSR Immediate"
 description: |
   Atomically write CSR using a 5-bit immediate, and load the previous value into 'xd'.
 

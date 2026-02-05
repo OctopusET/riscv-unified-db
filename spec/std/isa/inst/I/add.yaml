@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: add
-long_name: Integer add
+long_name: "Integer add"
 description: |
   Add the value in xs1 to xs2, and store the result in xd.
   Any overflow is thrown away.

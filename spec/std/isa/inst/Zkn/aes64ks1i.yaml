@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: aes64ks1i
-long_name: AES Key Schedule Instruction 1
+long_name: "AES Key Schedule Instruction 1"
 description: |
   This instruction implements the rotation, SubBytes and Round Constant addition steps of the AES
   block cipher Key Schedule.

@@ -6,7 +6,7 @@
 $schema: inst_schema.json#
 kind: instruction
 name: xperm8
-long_name: Crossbar permutation (bytes)
+long_name: "Crossbar permutation (bytes)"
 description: |
   The xperm8 instruction operates on bytes. The xs1 register contains a vector of XLEN/8 8-bit
   elements. The xs2 register contains a vector of XLEN/8 8-bit indexes. The result is each element in

@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: ori
-long_name: Or immediate
+long_name: "Or immediate"
 description: Or an immediate to the value in xs1, and store the result in xd
 definedBy:
   extension:

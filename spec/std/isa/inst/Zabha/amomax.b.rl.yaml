@@ -10,7 +10,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: amomax.b.rl
-long_name: Atomic MAX byte (release)
+long_name: "Atomic MAX byte (release)"
 description: |
   Atomically with release ordering:
 

@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: lr.w
-long_name: Load reserved word
+long_name: "Load reserved word"
 description: |
   Loads a word from the address in xs1, places the sign-extended value in xd,
   and registers a _reservation set_  -- a set of bytes that subsumes the bytes in the

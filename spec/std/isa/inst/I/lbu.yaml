@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: lbu
-long_name: Load byte unsigned
+long_name: "Load byte unsigned"
 description: |
   Load 8 bits of data into register `xd` from an
   address formed by adding `xs1` to a signed offset.

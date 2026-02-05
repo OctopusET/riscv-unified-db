@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: fle.q
-long_name: Floating-Point Less Than or Equal Quad-Precision
+long_name: "Floating-Point Less Than or Equal Quad-Precision"
 description: |
   The `fle.q` performs the specified comparison between floating-point registers `fs1` and `fs2`,
   and writes 1 to integer register `xd` if the condition holds, and 0 otherwise.

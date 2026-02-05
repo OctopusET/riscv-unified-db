@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: sb
-long_name: Store byte
+long_name: "Store byte"
 description: |
   Store 8 bits of data from register `xs2` to an
   address formed by adding `xs1` to a signed offset.

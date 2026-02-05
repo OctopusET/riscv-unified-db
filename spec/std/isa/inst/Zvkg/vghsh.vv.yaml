@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: vghsh.vv
-long_name: Vector Galois field hash
+long_name: "Vector Galois field hash"
 description: |
   Performs a Galois field hash operation on vector register vs2 using vector register vs1 as the hash polynomial, storing results in vector register vd according to mask vm. This instruction is used in cryptographic hash functions and error detection algorithms.
 definedBy:

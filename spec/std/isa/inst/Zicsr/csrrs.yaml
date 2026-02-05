@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: csrrs
-long_name: Atomic Read and Set Bits in CSR
+long_name: "Atomic Read and Set Bits in CSR"
 description: |
   Atomically read and set bits in a CSR.
 

@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: cpop
-long_name: Count set bits
+long_name: "Count set bits"
 description: |
   Counts the number of 1's (i.e., set bits) in the source register.
 

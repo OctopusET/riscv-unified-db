@@ -6,7 +6,7 @@
 $schema: inst_schema.json#
 kind: instruction
 name: hlv.d
-long_name: Hypervisor load doubleword
+long_name: "Hypervisor load doubleword"
 description: |
   Load 64 bits of data into register `xd` from guest physical memory at the
   address in `xs1`, as though V=1.

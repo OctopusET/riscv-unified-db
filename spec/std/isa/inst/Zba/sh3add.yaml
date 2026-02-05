@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: sh3add
-long_name: Shift left by 3 and add
+long_name: "Shift left by 3 and add"
 description: |
   Shifts `xs1` to the left by 3 places and adds it to `xs2`.
 definedBy:

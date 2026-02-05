@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: aes64esm
-long_name: AES encrypt middle round
+long_name: "AES encrypt middle round"
 definedBy:
   allOf:
     - xlen: 64

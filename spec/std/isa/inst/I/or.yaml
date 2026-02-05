@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: or
-long_name: Or
+long_name: "Or"
 description: Or xs1 with xs2, and store the result in xd
 definedBy:
   extension:

@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: beq
-long_name: Branch if equal
+long_name: "Branch if equal"
 description: |
   Branch to PC + imm if
   the value in register xs1 is equal to the value in register xs2.

@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: max
-long_name: Maximum
+long_name: "Maximum"
 description: |
   Returns the larger of two signed integers.
 

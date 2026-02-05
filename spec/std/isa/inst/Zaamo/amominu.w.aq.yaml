@@ -10,7 +10,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: amominu.w.aq
-long_name: Atomic MIN unsigned word (acquire)
+long_name: "Atomic MIN unsigned word (acquire)"
 description: |
   Atomically with acquire ordering:
 

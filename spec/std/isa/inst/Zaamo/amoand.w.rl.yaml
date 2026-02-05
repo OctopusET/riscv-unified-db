@@ -10,7 +10,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: amoand.w.rl
-long_name: Atomic fetch-and-and word (release)
+long_name: "Atomic fetch-and-and word (release)"
 description: |
   Atomically with release ordering:
 

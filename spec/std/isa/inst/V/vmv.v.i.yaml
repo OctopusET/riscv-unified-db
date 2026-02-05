@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: vmv.v.i
-long_name: Vector move immediate to vector register
+long_name: "Vector move immediate to vector register"
 description: |
   Copies a sign-extended 5-bit immediate value to all body elements of the destination
   vector register group. This is an unmasked instruction (vm=1).

@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: sc.d
-long_name: Store conditional doubleword
+long_name: "Store conditional doubleword"
 description: |
   `sc.d` conditionally writes a doubleword in _xs2_ to the address in _xs1_:
   the `sc.d` succeeds only if the reservation is still valid and the

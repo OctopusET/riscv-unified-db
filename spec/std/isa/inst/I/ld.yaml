@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: ld
-long_name: Load doubleword
+long_name: "Load doubleword"
 description: |
   For RV64, load 64 bits of data into register `xd` from an
   address formed by adding `xs1` to a signed offset.

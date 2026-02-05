@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: roriw
-long_name: Rotate right word (Immediate)
+long_name: "Rotate right word (Immediate)"
 description: |
   Performs a rotate right on the least-significant word of xs1 by the amount in
   the least-significant log2(XLEN) bits of shamt. The resulting word value is sign-extended by

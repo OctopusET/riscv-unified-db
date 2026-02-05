@@ -6,7 +6,7 @@
 $schema: inst_schema.json#
 kind: instruction
 name: fcvt.wu.d
-long_name: Floating-Point Convert Double-Precision to Unsigned Word
+long_name: "Floating-Point Convert Double-Precision to Unsigned Word"
 definedBy:
   extension:
     oneOf:

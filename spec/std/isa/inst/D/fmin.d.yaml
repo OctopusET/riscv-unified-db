@@ -6,7 +6,7 @@
 $schema: inst_schema.json#
 kind: instruction
 name: fmin.d
-long_name: Floating-Point Minimum-Number Double-Precision
+long_name: "Floating-Point Minimum-Number Double-Precision"
 definedBy:
   extension:
     oneOf:

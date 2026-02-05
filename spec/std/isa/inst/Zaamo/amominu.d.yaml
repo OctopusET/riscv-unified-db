@@ -10,7 +10,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: amominu.d
-long_name: Atomic MIN unsigned doubleword
+long_name: "Atomic MIN unsigned doubleword"
 description: |
   Atomically:
 

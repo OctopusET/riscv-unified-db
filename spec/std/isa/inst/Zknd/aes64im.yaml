@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: aes64im
-long_name: AES Decrypt KeySchedule MixColumns
+long_name: "AES Decrypt KeySchedule MixColumns"
 definedBy:
   allOf:
     - xlen: 64

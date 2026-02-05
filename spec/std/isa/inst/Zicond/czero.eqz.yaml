@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: czero.eqz
-long_name: Conditional zero, if condition is equal to zero
+long_name: "Conditional zero, if condition is equal to zero"
 description: |
   If xs2 contains the value zero, this instruction writes the value zero to xd. Otherwise, this instruction
   copies the contents of xs1 to xd.

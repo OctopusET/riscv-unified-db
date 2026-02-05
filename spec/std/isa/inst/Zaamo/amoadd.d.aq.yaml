@@ -10,7 +10,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: amoadd.d.aq
-long_name: Atomic fetch-and-add doubleword (acquire)
+long_name: "Atomic fetch-and-add doubleword (acquire)"
 description: |
   Atomically with acquire ordering:
 

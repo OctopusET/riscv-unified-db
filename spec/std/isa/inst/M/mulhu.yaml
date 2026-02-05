@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: mulhu
-long_name: Unsigned multiply high
+long_name: "Unsigned multiply high"
 description: |
   Multiply the unsigned values in xs1 to xs2, and store the upper half of the result in xd.
   The lower half is thrown away.

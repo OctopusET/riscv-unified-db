@@ -10,7 +10,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: amomin.h.aq
-long_name: Atomic MIN halfword (acquire)
+long_name: "Atomic MIN halfword (acquire)"
 description: |
   Atomically with acquire ordering:
 

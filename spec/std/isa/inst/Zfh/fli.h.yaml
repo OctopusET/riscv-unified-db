@@ -6,7 +6,7 @@
 $schema: inst_schema.json#
 kind: instruction
 name: fli.h
-long_name: Floating-point Load Immediate Half-precision
+long_name: "Floating-point Load Immediate Half-precision"
 description: |
   No description available.
 definedBy:

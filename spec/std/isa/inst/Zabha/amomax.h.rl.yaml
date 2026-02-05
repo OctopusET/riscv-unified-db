@@ -10,7 +10,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: amomax.h.rl
-long_name: Atomic MAX halfword (release)
+long_name: "Atomic MAX halfword (release)"
 description: |
   Atomically with release ordering:
 

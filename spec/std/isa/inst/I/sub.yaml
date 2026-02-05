@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: sub
-long_name: Subtract
+long_name: "Subtract"
 description: Subtract the value in xs2 from xs1, and store the result in xd
 definedBy:
   extension:

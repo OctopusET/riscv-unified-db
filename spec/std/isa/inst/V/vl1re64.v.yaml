@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: vl1re64.v
-long_name: Vector load 1 element of 64 bits with register stride
+long_name: "Vector load 1 element of 64 bits with register stride"
 description: |
   Loads 1 segment of 64-bit elements from memory starting at address in xs1 register with stride in xs2, using vector mask vm, and stores results in vector register vd. The effective element width is 64 bits.
 definedBy:

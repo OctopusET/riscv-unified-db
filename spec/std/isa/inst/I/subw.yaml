@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: subw
-long_name: Subtract word
+long_name: "Subtract word"
 description:
   Subtract the 32-bit values in xs2 from xs1, and store the sign-extended
   result in xd

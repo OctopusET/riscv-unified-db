@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: cm.pop
-long_name: Destroy function call stack frame
+long_name: "Destroy function call stack frame"
 description: |
   Destroys a stack frame: load `ra` and 0 to 12 saved registers from the stack frame, deallocate the stack frame.
   This instruction pops (loads) the registers in `reg_list` from stack memory, and then adjusts the stack pointer by `stack_adj`.

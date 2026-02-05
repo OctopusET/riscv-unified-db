@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: blt
-long_name: Branch if less than
+long_name: "Branch if less than"
 description: |
   Branch to PC + imm if
   the signed value in register xs1 is less than the signed value in register xs2.

@@ -6,7 +6,7 @@
 $schema: inst_schema.json#
 kind: instruction
 name: vssseg7e8.v
-long_name: Vector segmented store 7 elements of 8 bits with stride
+long_name: "Vector segmented store 7 elements of 8 bits with stride"
 description: |
   Stores 7 segments of 8-bit elements from vector register vs2 to memory starting at address in xs1 register with stride, using vector mask vm. The effective element width is 8 bits.
 definedBy:

@@ -6,7 +6,7 @@
 $schema: inst_schema.json#
 kind: instruction
 name: csrrc
-long_name: Atomic Read and Clear Bits in CSR
+long_name: "Atomic Read and Clear Bits in CSR"
 description: |
   The CSRRC (Atomic Read and Clear Bits in CSR) instruction reads the value of the CSR, zero-extends
   the value to XLEN bits, and writes it to integer register `xd`. The initial value in integer register `xs1` is

@@ -6,7 +6,7 @@
 $schema: inst_schema.json#
 kind: instruction
 name: fcvt.l.d
-long_name: Floating-Point Convert Double-Precision to Long
+long_name: "Floating-Point Convert Double-Precision to Long"
 definedBy:
   allOf:
     - xlen: 64

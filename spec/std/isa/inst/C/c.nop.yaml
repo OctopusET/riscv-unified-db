@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: c.nop
-long_name: Non-operation
+long_name: "Non-operation"
 description: |
   C.NOP expands into `addi x0, x0, 0`.
 definedBy:

@@ -6,7 +6,7 @@
 $schema: inst_schema.json#
 kind: instruction
 name: prefetch.w
-long_name: Cache block prefetch for data write
+long_name: "Cache block prefetch for data write"
 description: |
   A prefetch.w instruction indicates to hardware that the cache block whose
   effective address is the sum of the base address specified in xs1 and the

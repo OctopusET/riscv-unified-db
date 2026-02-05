@@ -10,7 +10,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: amoswap.h
-long_name: Atomic SWAP halfword
+long_name: "Atomic SWAP halfword"
 description: |
   Atomically:
 

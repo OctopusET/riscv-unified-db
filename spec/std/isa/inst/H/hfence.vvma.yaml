@@ -6,7 +6,7 @@
 $schema: inst_schema.json#
 kind: instruction
 name: hfence.vvma
-long_name: Hypervisor fence guest virtual address
+long_name: "Hypervisor fence guest virtual address"
 description: |
   Invalidates any address-translation cache entries that a subsequent
   implicit memory access to guest virtual memory may use. The instruction

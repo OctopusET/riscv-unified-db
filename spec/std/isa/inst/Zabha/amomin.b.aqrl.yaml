@@ -10,7 +10,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: amomin.b.aqrl
-long_name: Atomic MIN byte (acquire-release)
+long_name: "Atomic MIN byte (acquire-release)"
 description: |
   Atomically with acquire and release ordering:
 

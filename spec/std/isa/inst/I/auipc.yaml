@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: auipc
-long_name: Add upper immediate to pc
+long_name: "Add upper immediate to pc"
 description: Add an immediate to the current PC.
 definedBy:
   extension:

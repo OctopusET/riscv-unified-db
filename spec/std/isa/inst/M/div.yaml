@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: div
-long_name: Signed division
+long_name: "Signed division"
 description: |
   Divide xs1 by xs2, and store the result in xd. The remainder is discarded.
 

@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: c.sdsp
-long_name: Store doubleword to stack
+long_name: "Store doubleword to stack"
 description: |
   Stores a 64-bit value in register rs2 to memory.
   It computes an effective address by adding the zero-extended offset, scaled by 8,

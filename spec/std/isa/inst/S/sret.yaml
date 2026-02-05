@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: sret
-long_name: Supervisor Mode Return from Trap
+long_name: "Supervisor Mode Return from Trap"
 description: |
   Returns from supervisor mode after handling a trap.
 

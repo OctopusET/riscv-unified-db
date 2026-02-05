@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: flq
-long_name: Floating-Point Load Quad-Precision
+long_name: "Floating-Point Load Quad-Precision"
 description: |
   The `flq` is the new variant of LOAD-FP, encoded with a new value for the `funct3`.
 

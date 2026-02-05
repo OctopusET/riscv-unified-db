@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: hinval.vvma
-long_name: Invalidate cached address translations
+long_name: "Invalidate cached address translations"
 definedBy:
   extension:
     allOf:

@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: sfence.inval.ir
-long_name: Order implicit page table reads after invalidation
+long_name: "Order implicit page table reads after invalidation"
 definedBy:
   extension:
     name: Svinval

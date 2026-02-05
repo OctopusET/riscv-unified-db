@@ -6,7 +6,7 @@
 $schema: inst_schema.json#
 kind: instruction
 name: fmsub.d
-long_name: Floating-Point Multiply-Subtract Double-Precision
+long_name: "Floating-Point Multiply-Subtract Double-Precision"
 definedBy:
   extension:
     oneOf:

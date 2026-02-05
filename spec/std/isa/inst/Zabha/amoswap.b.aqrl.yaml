@@ -10,7 +10,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: amoswap.b.aqrl
-long_name: Atomic SWAP byte (acquire-release)
+long_name: "Atomic SWAP byte (acquire-release)"
 description: |
   Atomically with acquire and release ordering:
 

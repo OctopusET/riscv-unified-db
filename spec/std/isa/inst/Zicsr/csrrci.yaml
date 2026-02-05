@@ -6,7 +6,7 @@
 $schema: inst_schema.json#
 kind: instruction
 name: csrrci
-long_name: Atomic Read and Clear Bits in CSR with Immediate
+long_name: "Atomic Read and Clear Bits in CSR with Immediate"
 description: |
   The CSRRCI variant is similar to CSRRC, except this updates the CSR using an XLEN-bit value obtained
   by zero-extending a 5-bit unsigned immediate (imm[4:0]) field encoded in the `xs1` field instead of a

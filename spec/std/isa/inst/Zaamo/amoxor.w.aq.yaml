@@ -10,7 +10,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: amoxor.w.aq
-long_name: Atomic fetch-and-xor word (acquire)
+long_name: "Atomic fetch-and-xor word (acquire)"
 description: |
   Atomically with acquire ordering:
 

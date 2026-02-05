@@ -6,7 +6,7 @@
 $schema: inst_schema.json#
 kind: instruction
 name: fcvt.lu.h
-long_name: Floating-point Convert Half-precision to Unsigned Long
+long_name: "Floating-point Convert Half-precision to Unsigned Long"
 definedBy:
   allOf:
     - xlen: 64

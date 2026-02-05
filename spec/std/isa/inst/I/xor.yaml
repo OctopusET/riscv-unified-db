@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: xor
-long_name: Exclusive Or
+long_name: "Exclusive Or"
 description: Exclusive or xs1 with xs2, and store the result in xd
 definedBy:
   extension:

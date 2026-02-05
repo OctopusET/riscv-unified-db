@@ -10,7 +10,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: amoor.d.aq
-long_name: Atomic fetch-and-or doubleword (acquire)
+long_name: "Atomic fetch-and-or doubleword (acquire)"
 description: |
   Atomically with acquire ordering:
 

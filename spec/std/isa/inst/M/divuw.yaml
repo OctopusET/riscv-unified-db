@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: divuw
-long_name: Unsigned 32-bit division
+long_name: "Unsigned 32-bit division"
 description: |
   Divide the unsigned 32-bit values in xs1 and xs2, and store the sign-extended result in xd.
 

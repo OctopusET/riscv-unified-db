@@ -6,7 +6,7 @@
 $schema: inst_schema.json#
 kind: instruction
 name: fcvt.h.wu
-long_name: Floating-point Convert Unsigned Word to Half-precision
+long_name: "Floating-point Convert Unsigned Word to Half-precision"
 definedBy:
   extension:
     oneOf:

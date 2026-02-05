@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: bge
-long_name: Branch if greater than or equal
+long_name: "Branch if greater than or equal"
 description: |
   Branch to PC + imm if
   the signed value in register xs1 is greater than or equal to the signed value in register xs2.

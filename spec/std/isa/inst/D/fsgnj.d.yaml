@@ -6,7 +6,7 @@
 $schema: inst_schema.json#
 kind: instruction
 name: fsgnj.d
-long_name: Floating-Point Sign-Inject Double-Precision
+long_name: "Floating-Point Sign-Inject Double-Precision"
 definedBy:
   extension:
     oneOf:

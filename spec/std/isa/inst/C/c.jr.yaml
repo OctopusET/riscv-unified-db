@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: c.jr
-long_name: Jump Register
+long_name: "Jump Register"
 description: |
   C.JR (jump register) performs an unconditional control transfer to the address in register xs1.
   C.JR expands to jalr x0, 0(xs1).

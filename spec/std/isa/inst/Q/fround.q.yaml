@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: fround.q
-long_name: Floating-Point Round Quad-Precision
+long_name: "Floating-Point Round Quad-Precision"
 description: |
   The `fround.q` instruction rounds the quad-precision floating-point number in floating-point register
   `fs1` to an integer, according to the rounding mode specified in the instruction's `rm` field. It then writes

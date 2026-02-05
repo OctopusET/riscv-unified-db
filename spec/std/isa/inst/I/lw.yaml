@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: lw
-long_name: Load word
+long_name: "Load word"
 description: |
   Load 32 bits of data into register `xd` from an
   address formed by adding `xs1` to a signed offset.

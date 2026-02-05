@@ -6,7 +6,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: vsse64.v
-long_name: Vector store 64-bit elements with stride
+long_name: "Vector store 64-bit elements with stride"
 description: |
   Stores 64-bit elements from vector register vs2 to memory starting at address in xs1 register with stride in xs2, using vector mask vm. The effective element width is 64 bits.
 definedBy:

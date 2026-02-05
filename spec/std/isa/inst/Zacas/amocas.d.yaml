@@ -10,7 +10,7 @@
 $schema: "inst_schema.json#"
 kind: instruction
 name: amocas.d
-long_name: Atomic compare-and-swap doubleword
+long_name: "Atomic compare-and-swap doubleword"
 description: |
   Atomically:
 
